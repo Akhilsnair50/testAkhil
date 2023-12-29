@@ -73,7 +73,7 @@
         <dependency>
             <groupId>com.razorpay</groupId>
             <artifactId>razorpay-java</artifactId>
-            <version>1.4.4</version> //x.y.z = the version you want to install
+            <version>1.4.4</version>
         </dependency>
 
         <dependency>
